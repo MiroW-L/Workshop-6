@@ -22,7 +22,7 @@
 
 <img width="726" alt="Screenshot 2025-01-31 at 2 34 48 PM" src="https://github.com/user-attachments/assets/861dba4b-fa54-4284-a4a9-1573a9cea984" />
 
-### It didn't work with the analyze function which was frustrating
+### It didn't work with the alliteration function which was frustrating
 <img width="846" alt="Screenshot 2025-01-31 at 2 44 26 PM" src="https://github.com/user-attachments/assets/3b3677e3-a7cb-449e-a86a-b5202ea3c3b2" />
 
 

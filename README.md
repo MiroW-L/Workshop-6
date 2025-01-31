@@ -24,7 +24,10 @@
 
 ### It didn't work with the alliteration function which was frustrating
 <img width="846" alt="Screenshot 2025-01-31 at 2 44 26 PM" src="https://github.com/user-attachments/assets/3b3677e3-a7cb-449e-a86a-b5202ea3c3b2" />
+### Instead I added a Pluralise function with help from DeepSeek
+<img width="872" alt="Screenshot 2025-01-31 at 2 54 15 PM" src="https://github.com/user-attachments/assets/07cd5dfb-9147-4aee-a2aa-03fc5450d1d5" />
+### Finally I searched and found a working function which was adding a random adjective to the input which was fun, also with help from DeepSeek
+<img width="796" alt="Screenshot 2025-01-31 at 3 16 06 PM" src="https://github.com/user-attachments/assets/30415d89-0153-4b44-8bf2-99b997e53fc2" />
 
-
-
-
+## Finally Done
+- Using DeepSeek was incredibly helpful and I will continue to use it for help when I get stuck. I also will ask Leo if I get stuck on things but since I am so behind I need to speed through these last few workshops.

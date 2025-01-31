@@ -1,4 +1,5 @@
 # Workshop-6
+https://mirow-l.github.io/Workshop-6/
 
 ## Working with text (29/1/25)
 - Started by copying what Leo was making with his poem generator thing which all felt familiar as I had explored some of these mechanics earlier on.
